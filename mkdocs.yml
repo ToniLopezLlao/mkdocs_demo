@@ -1,0 +1,16 @@
+site_name: CercaPelis
+
+nav:
+  - Inici: index.md
+  - Guia d'ús: us.md
+
+plugins:
+  - search
+  - mkdocstrings
+
+theme:
+  name: material
+  language: ca
+
+markdown_extensions:
+  - admonition
