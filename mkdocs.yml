@@ -3,6 +3,7 @@ site_name: CercaPelis
 nav:
   - Inici: index.md
   - Guia d'ús: us.md
+  - API: api.md
 
 plugins:
   - search
